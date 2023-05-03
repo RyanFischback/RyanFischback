@@ -24,6 +24,7 @@
 
 <h3 align="left">Favorite Tools + More:</h3>
 <p align="left"> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/452/amazon-web-services.png" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" alt="sql" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
