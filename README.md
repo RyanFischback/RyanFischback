@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ryan</h1>
+<h1 align="center">Hi there, I'm Ryan 👋</h1>
 <h3 align="center">A tech enthusiast/software developer from Canada</h3>
 
 - 🔭 I’m currently working on [const](https://github.com/RyanFischback/const)
