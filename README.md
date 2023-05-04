@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Ryan 👋</h1>
 <h3 align="center">Tech enthusiast/Software developer from Canada</h3>
 
-- 🔭 I’m currently working on [const](https://github.com/RyanFischback/const)
+- 🔭 I’m currently working on [const](https://github.com/RyanFischback/const), [jim](https://github.com/RyanFischback/jim), [challenges](https://github.com/RyanFischback/challenges), and more!
 
-- 🌱 I’m currently learning **AWS, React-Native**
+- 🌱 I’m currently learning **AWS** and expanding my skillset in **React-Native**
 
 <h3 align="left">Favorite Languages:</h3>
 <p align="left"> 
