@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [const](https://github.com/RyanFischback/const), [jim](https://github.com/RyanFischback/jim), [challenges](https://github.com/RyanFischback/challenges), and more!
 
-- 🌱 I’m currently learning **AWS** and expanding my skillset in **React-Native**
+- 🌱 I’m currently learning **AWS, Redux Toolkit, and React-Native**
 
 <h3 align="left">Favorite Languages:</h3>
 <p align="left"> 
