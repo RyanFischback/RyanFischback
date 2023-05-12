@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ryan 👋 Welcome to my GitHub!</h1>
 <h3 align="center">Tech Enthusiast/Software Developer from Canada!</h3>
 
-- 🔭 I’m currently working on [const](https://github.com/RyanFischback/const), [jim](https://github.com/RyanFischback/jim), [challenges](https://github.com/RyanFischback/challenges), and more!
+- 🔭 I’m currently working on [const](https://github.com/RyanFischback/const), [jim](https://github.com/RyanFischback/jim), [osrs-sim](https://github.com/RyanFischback/osrs-sim), and more!
 
 - 🌱 I’m currently learning **AWS**
 
