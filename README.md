@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Ryan 👋 Welcome to my GitHub!</h1>
 <h3 align="center">Tech Enthusiast/Software Developer from Canada!</h3>
 
-- 🌱 I’m currently learning **[Rust](https://github.com/RyanFischback/Rust)**
+- 📚 I’m currently learning **[Rust](https://github.com/RyanFischback/Rust)**
+- 🛠️ I’m currently working on **[Coverly](https://github.com/RyanFischback/Coverly)**
 
 <h3 align="left">Favorite Languages:</h3> 
 <p align="left"> 
