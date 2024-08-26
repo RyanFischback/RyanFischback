@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Proficient Tech Stack
 
 <p align="center">
   <!-- Programming Languages -->
