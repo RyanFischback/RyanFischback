@@ -12,7 +12,7 @@
 
 ### 🌟 About Me
 
-- 👨‍💻 I’m currently working on [**Coverly**](https://github.com/ryanfischback/Coverly) and [**Plateful**](https://github.com/ryanfischback/Plateful).
+- 👨‍💻 I’m currently working on [**Coverly**](https://github.com/ryanfischback/Coverly) (https://coverly.ca) and [**Plateful**](https://github.com/ryanfischback/Plateful).
 - 🌱 I’m learning **Kubernetes, AI-driven solutions, and Cloud Technologies**.
 - 💬 Ask me about anything **React, TypeScript, or Docker-related**.
 - 📫 How to reach me: **[rfischback2@gmail.com](mailto:rfischback2@gmail.com)**.
