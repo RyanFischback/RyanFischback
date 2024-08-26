@@ -5,7 +5,19 @@
 <p align="center">
   <a href="https://github.com/ryanfischback"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ryanfischback?label=Follow%20Me&style=social" /></a>
   <a href="mailto:rfischback2@gmail.com"><img src="https://img.shields.io/badge/Contact-rfischback2%40gmail.com-informational" alt="Email"></a>
+    <a href="http://ryanfischback.com"><img src="https://img.shields.io/badge/Portfolio-Visit-0a3d62?style=flat&logo=world&logoColor=white" alt="Portfolio"></a>
 </p>
+
+---
+
+### 🌟 About Me
+
+- 👨‍💻 I’m currently working on [**Coverly**](https://github.com/ryanfischback/Coverly) and [**Plateful**](https://github.com/ryanfischback/Plateful).
+- 🌱 I’m learning **Kubernetes, AI-driven solutions, and Cloud Technologies**.
+- 💬 Ask me about anything **React, TypeScript, or Docker-related**.
+- 📫 How to reach me: **[rfischback2@gmail.com](mailto:rfischback2@gmail.com)**.
+- 🎯 2024 Goals: Contribute more to open-source projects and learn **Go**.
+- ⚡ Fun fact: I love cooking and experimenting with new recipes.
 
 ---
 
@@ -53,17 +65,6 @@
 
 ---
 
-### 🌟 About Me
-
-- 👨‍💻 I’m currently working on [**Coverly**](https://github.com/ryanfischback/Coverly) and [**Plateful**](https://github.com/ryanfischback/Plateful).
-- 🌱 I’m learning **Kubernetes, AI-driven solutions, and Cloud Technologies**.
-- 💬 Ask me about anything **React, TypeScript, or Docker-related**.
-- 📫 How to reach me: **[rfischback2@gmail.com](mailto:rfischback2@gmail.com)**.
-- 🎯 2024 Goals: Contribute more to open-source projects and learn **Go**.
-- ⚡ Fun fact: I love cooking and experimenting with new recipes.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -101,8 +102,5 @@
   </a>
   <a href="mailto:rfischback2@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/ryanfischback" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
