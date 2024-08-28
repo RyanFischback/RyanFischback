@@ -16,7 +16,7 @@
 - 🌱 I’m learning **Kubernetes, AI-driven solutions, and Cloud Technologies**.
 - 💬 Ask me about anything **React, TypeScript, or Docker-related**.
 - 📫 How to reach me: **[rfischback2@gmail.com](mailto:rfischback2@gmail.com)**.
-- 🎯 2024 Goals: Contribute more to open-source projects and learn **Go**.
+- 🎯 2024 Goals: Contribute more to open-source projects learn more about **Go**, and become an **AWS CCP**.
 - ⚡ Fun fact: I love cooking and experimenting with new recipes.
 
 ---
