@@ -1,6 +1,6 @@
 <!-- Header Section with Name and Introduction -->
 <h1 align="center">Hi, I'm Ryan Fischback 👋</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">Software Engineer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <a href="https://github.com/ryanfischback"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ryanfischback?label=Follow%20Me&style=social" /></a>
@@ -10,18 +10,7 @@
 
 ---
 
-### 🌟 About Me
-
-- 👨‍💻 I’m currently working on [**Coverly**](https://github.com/ryanfischback/Coverly) (https://coverly.ca) and [**Plateful**](https://github.com/ryanfischback/Plateful).
-- 🌱 I’m learning **Kubernetes, AI-driven solutions, and Cloud Technologies**.
-- 💬 Ask me about anything **React, TypeScript, or Docker-related**.
-- 📫 How to reach me: **[rfischback2@gmail.com](mailto:rfischback2@gmail.com)**.
-- 🎯 2024 Goals: Contribute more to open-source projects learn more about **Go**, and become an **AWS CCP**.
-- ⚡ Fun fact: I love cooking and experimenting with new recipes.
-
----
-
-### 🛠️ Proficient Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <!-- Programming Languages -->
