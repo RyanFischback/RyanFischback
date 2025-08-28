@@ -48,27 +48,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanfischback&theme=tokyonight" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanfischback&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanfischback&theme=tokyonight" alt="Most Used Language" />
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ryanfischback&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="Ryan's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ryanfischback&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanfischback&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 Achievements & Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryanfischback&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
