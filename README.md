@@ -43,11 +43,3 @@
 </p>
 
 ---
-
-### 🚀 Contributions
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanfischback&theme=tokyonight" alt="Profile Details" />
-</p>
-
----
