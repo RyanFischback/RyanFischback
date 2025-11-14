@@ -1,5 +1,4 @@
 <!-- Header Section with Name and Introduction -->
-<h1 align="center">Hi, I'm Ryan Fischback 👋</h1>
 <h3 align="center">Software Engineer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
