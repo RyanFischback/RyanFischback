@@ -1,44 +1,47 @@
-<!-- Header Section with Name and Introduction -->
-<h3 align="center">Software Engineer | AI Enthusiast | Problem Solver</h3>
 
-<p align="center">
-  <a href="https://github.com/ryanfischback"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ryanfischback?label=Follow%20Me&style=social" /></a>
-  <a href="mailto:rfischback2@gmail.com"><img src="https://img.shields.io/badge/Contact-rfischback2%40gmail.com-informational" alt="Email"></a>
-    <a href="http://ryanfischback.com"><img src="https://img.shields.io/badge/Portfolio-Visit-0a3d62?style=flat&logo=world&logoColor=white" alt="Portfolio"></a>
-</p>
+<div align="center">
+
+# Ryan Fischback 𓆟
+
+Software Engineer @ [Rover](https://www.rover.io)
+
+*I build the stuff between the game and the screen.*
+
+[website](https://ryanfischback.com) · [email](mailto:rfischback2@gmail.com)
+
+</div>
+
+---
+
+### side quests
+
+| | |
+| :--- | :--- |
+| 📱 **Fin** | Budget & expense tracker · [iOS](https://apps.apple.com/ca/app/fin-budget-expense-tracker/id6824338041) · [Web](https://usefinapp.com) · Android coming soon |
+| 🧠 [Factly](https://apps.apple.com/ca/app/factly/id6758357204) | Daily facts for curious minds |
+| 📖 **Mileage Logbook** | Canadian Maple Press · [2026](https://www.amazon.ca/dp/B0H795MZWJ) · [2027](https://www.amazon.ca/dp/B0HJFTYT7Y) |
+| 🧩 [LiquidJS](https://github.com/harttle/liquidjs) | Open source · [PR #1003](https://github.com/harttle/liquidjs/pull/1003) |
+
+### when I'm not at my desk
+
+🥊 Muay Thai
 
 ---
 
-### 🛠️ Tech Stack
+### github activity
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007ACC" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=239120" alt="C#" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6" alt="CSS3" />
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&logoColor=white&color=000000" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=764ABC" alt="Redux" />
-  <img src="https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=512BD4" alt=".NET" />
-  <img src="https://img.shields.io/badge/Code-Entity%20Framework-informational?style=flat&logo=.net&logoColor=white&color=512BD4" alt="Entity Framework" />
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57" alt="SQLite" />
-  <!-- DevOps & Cloud -->
-  <img src="https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E" alt="AWS" />
-  <img src="https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0078D4" alt="Azure" />
-  <img src="https://img.shields.io/badge/Cloud-Google%20Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=4285F4" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Tool-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=623CE4" alt="Terraform" />
-</p>
-
----
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=RyanFischback&theme=github-dark&hide_border=true&hide_title=true&area=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=RyanFischback&theme=github-light&hide_border=true&hide_title=true&area=true"
+  />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RyanFischback&theme=github-compact&hide_border=true&hide_title=true&area=true"
+    width="100%"
+    alt="GitHub activity graph"
+  />
+</picture>
